@@ -1,0 +1,30 @@
+Sola,
+
+I'm putting together a syllabus of sorts for your on-boarding.  For our first day I will primarily be introducing you to CAN and some of the basic tools we use to operate (i.e. Google Apps, Basecamp, Dropbox, etc.) as well as going through some of the required paperwork.  We will also go through expectations for the first two months and discuss training coursework.
+
+For the first month or two we will primarily be doing education and training around tool sets.  We will have some projects coming through the pipe very soon, but I think giving you more of a foundation into some of the tools we use alongside the techniques will give you an edge on the learning curve.
+
+The core of what we will train on first is using the R programming language, learning the SQL database query language, and learning Tableau, which is a visualization software for building dashboards.  Below are courses/resources I would like you to focus on.  We will talk about these on day 1 and I will walk you through finding each of them.
+
+- Introduction To R (Try R - Code School)
+- Data Scientist Toolkit (Coursera) *
+- R Programming (Coursera) *
+- SQL Training (SQLZoo.net)
+- Tableau Training (CAN Documentation)
+
+Here are also some additional courses that will be good to focus on in later months.  The ones that have an * are a part of a Data Science course load on Coursera.  There's an option to get a certificate for $490 when you take all these courses.  I don't think this is necessary, but its up to you.  These are just good resources for building a foundation in predictive analytics and data science.  
+
+- R Courses (Datacamp)
+- Getting and Cleaning Data (Coursera) * 
+- Exploratory Data Analysis (Coursera) *
+- Reproducible Research (Coursera) *
+- Statistical Inference (Coursera) * 
+- Regression Models (Coursera) *
+- Practical Machine Learning (Coursera) *
+- Developing Data Products (Coursera) *
+- An Introduction to Interactive Programming in Python (Coursera)
+- Learn Python (Code Academy)
+- Introduction to Data Science (Coursera)
+
+
+We will also focus on completing 1-2 projects that use actual commercial datasets from past clients.  I'm also open to doing 1-2 projects that you have a personal interest in.  My hope is that we can use the results as publishable material for some of your first blog posts.  
